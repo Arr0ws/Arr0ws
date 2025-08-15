@@ -12,9 +12,9 @@ I'm a high beginner programmer/developer who likes to make cool and weird stuff
   
 ## Profiles/website 👤
 
-[Youtube](https://www.youtube.com/@RealArr0ws5654)
-[Twitter/X](https://x.com/rblx_blast18199)
-[My website](https://arr0ws.github.io/TotallyAwesome-Website/)
+- Youtube: [Click me!](https://www.youtube.com/@RealArr0ws5654)
+- Twitter/X: [Click me!](https://x.com/rblx_blast18199)
+- My website: [Click me!](https://arr0ws.github.io/TotallyAwesome-Website/)
 
 <!--
 **Arr0ws/Arr0ws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
