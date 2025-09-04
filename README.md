@@ -5,10 +5,10 @@ I'm a high beginner programmer/developer who likes to make cool and weird stuff
 ## i mainly use
 
 - Javascript 🟨
-- Svelte 🟧
+- Lua 🌑
 - Html/css 🟥🟦
 - Node.js 🟩
-- Express.js ⬜
+
   
 ## Profiles/website 👤
 
