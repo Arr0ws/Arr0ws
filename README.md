@@ -2,6 +2,8 @@
 
 I'm a high beginner programmer/developer who likes to make cool and weird stuff
 
+---
+
 ## i mainly use
 
 - Javascript 🟨
@@ -9,7 +11,11 @@ I'm a high beginner programmer/developer who likes to make cool and weird stuff
 - Html/css 🟥🟦
 - Node.js 🟩
 
-  
+---
+
+## Current projects
+
+
 ## Profiles/website 👤
 
 - Youtube: [Click me!](https://www.youtube.com/@RealArr0ws5654)
@@ -18,3 +24,4 @@ I'm a high beginner programmer/developer who likes to make cool and weird stuff
 - My website: [Click me!](https://arr0ws.github.io/TotallyAwesome-Website/)
 - Discord: [Click me!](https://discord.com/users/1211561846000324740)
 
+---
