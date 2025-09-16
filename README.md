@@ -21,6 +21,12 @@ A fake operating system made in Javascript (Node.js)
 
 [Click me!](https://github.com/Arr0ws/NeoterOS)
 
+### ducksay 🐤
+
+A program thats generate an ascii art of a duck with a message (heavily inspired by cowsay)
+
+- npmjs [Click me!](https://www.npmjs.com/package/arrows-ducksay#introducing-ducksay)
+
 ---
 
 ## Profiles/website 👤
