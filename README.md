@@ -15,6 +15,13 @@ I'm a high beginner programmer/developer who likes to make cool and weird stuff
 
 ## Current projects
 
+### NeoterOS 🖥️
+
+A fake operating system made in Javascript (Node.js)
+
+[Click me!](https://github.com/Arr0ws/NeoterOS)
+
+
 
 ## Profiles/website 👤
 
