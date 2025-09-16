@@ -21,7 +21,7 @@ A fake operating system made in Javascript (Node.js)
 
 [Click me!](https://github.com/Arr0ws/NeoterOS)
 
-
+---
 
 ## Profiles/website 👤
 
