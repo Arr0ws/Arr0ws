@@ -1,4 +1,4 @@
-# Hello! I'm Arr0ws 👋
+# Howdy! I'm Arr0ws 👋
 
 I'm a early intermediate programmer/developer who likes to make cool and weird stuff
 
@@ -7,6 +7,7 @@ I'm a early intermediate programmer/developer who likes to make cool and weird s
 ## i mainly use
 
 - Javascript 🟨
+- C 🔵
 - Lua 🌑
 - Html/css 🟥🟦
 - Node.js 🟩
