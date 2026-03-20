@@ -1,6 +1,6 @@
 # Howdy! I'm Arr0ws 👋
 
-I'm a early intermediate programmer/developer who likes to make cool and weird stuff
+I'm an early intermediate programmer/developer who likes to make cool and weird stuff
 
 ---
 
